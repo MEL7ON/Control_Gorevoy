@@ -14,7 +14,7 @@ namespace Control_Gorevoy
     {
         public Form1()
         {
-            InitializeComponent();
+            InitializeComponent(); // Горевой Степан Алексеевич 36ИС
         }
 
         private void Form1_Load(object sender, EventArgs e)
